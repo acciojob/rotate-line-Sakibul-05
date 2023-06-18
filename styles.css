@@ -9,7 +9,7 @@ div.container{
                  margin: auto;
 /*                  border-radius: 50%; */
              }
-             div.line{
+             #line{
                  background-color: black;
                  width: 200px;
                  height: 2px;
